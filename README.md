@@ -8,7 +8,7 @@
 > 年**投手真正在用的支付方式**客观讲清楚:虚拟卡、代理开户、官方开户——**怎么选、
 > 怎么绑、为什么封、怎么降低风险**。
 
-**📅 最后更新:2026-07** · **利益相关声明:** 作者做 [cocodot](https://cocodot.co)
+**📅 最后更新:2026-07** · **利益相关声明:** 作者做 [cocodot](https://cocodot.co?utm_source=github&utm_medium=readme&utm_campaign=pay-for-overseas-ads-from-china)
 (一个虚拟卡 + 跨境支付工具),下文会提到它;但这里把**所有主流方式(含竞品)**一起
 对比,你看完自己选,**别只信我**。欢迎 Issue / PR 纠错。
 
